@@ -1,1 +1,1 @@
-https://ValeryAsh.github.io/html-cv/
+https://valeryash.github.io/html-cv/index.html
